@@ -6,7 +6,7 @@ This is a turn based type game where you go back to the late 2000s to the DS age
 -- WINDOWS -- 
 1. Go to python.org
 2. Go to Downloads section
-3. Download the latest version of python.org
+3. Download the latest version of python3
 4. Open the installation file
 5. Open cmd
 6. Run on the command, pip3 install pygame
