@@ -1,5 +1,5 @@
 # GlitchMonsPygame
-This is a turn based type game where you go back to the late 2000s to the DS ages.
+Back to the 2000s of turned based games
 
 # INSTALLATION OF PYTHON AND PYGAME
 
