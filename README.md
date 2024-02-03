@@ -1,6 +1,9 @@
 # GlitchMonsPygame
 Back to the 2000s of turned based games
 
+# FILE TYPE
+Note that after version 0.01.1, all files for the project are going to be in a zipped folder.
+
 # INSTALLATION OF PYTHON AND PYGAME
 
 -- WINDOWS -- 
